@@ -10,6 +10,8 @@
 
 #LEADER'S NO. - 9098465107
 
+#PRESENTATION SLIDES - https://docs.google.com/presentation/d/1s0UCSFbO2FGoXJw6p76OtwtyIKWD0hiahI1tytvYoYQ/edit?usp=sharing
+
 #DEMONSTRATION VIDEO LINK - https://www.youtube.com/watch?v=XPzVYwW4Edg
 
 #Theme 2: Authentication Reimagined
