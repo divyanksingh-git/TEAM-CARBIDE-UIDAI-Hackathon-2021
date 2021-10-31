@@ -14,6 +14,8 @@
 
 #DEMONSTRATION VIDEO LINK - https://www.youtube.com/watch?v=XPzVYwW4Edg
 
+#COLLABORATORS - CHIRAG PATEL |  DIVYANK SINGH
+
 #Theme 2: Authentication Reimagined
 TOOLS  AND TECHNOLOGIES :
 
